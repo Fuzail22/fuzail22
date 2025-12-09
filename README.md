@@ -24,7 +24,7 @@ All logic runs locally with no tracking
 Built with Manifest V3, TypeScript, and a custom rule engine
 
 🔗 Links:
-1 minute Demo: https://github.com/Fuzail22/pasteguard](https://m.youtube.com/shorts/zXA8fPHIe4I
+1 minute Demo: https://www.youtube.com/watch?v=PKx0DCn4nL0
 
 Chrome and Edge Extension Link: https://chromewebstore.google.com/detail/pasteguard-%E2%80%94-protects-acc/edbekaihacoogaofcdpeoaaeoiiklmbp
 
