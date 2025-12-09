@@ -24,11 +24,11 @@ All logic runs locally with no tracking
 Built with Manifest V3, TypeScript, and a custom rule engine
 
 🔗 Links:
-1 minute Demo: [https://github.com/Fuzail22/pasteguard](https://m.youtube.com/shorts/zXA8fPHIe4I
+1 minute Demo: https://github.com/Fuzail22/pasteguard](https://m.youtube.com/shorts/zXA8fPHIe4I
 
 Chrome and Edge Extension Link: https://chromewebstore.google.com/detail/pasteguard-%E2%80%94-protects-acc/edbekaihacoogaofcdpeoaaeoiiklmbp
 
-Firefox Extension Link: https://addons.mozilla.org/en-GB/android/addon/pasteguard22/)
+Firefox Extension Link: https://addons.mozilla.org/en-GB/android/addon/pasteguard22/
 
 
 🖥️ Frontend Engineering
